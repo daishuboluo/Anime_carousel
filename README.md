@@ -35,3 +35,4 @@
 | 《QWidget蜂巢网格》 | <img src="res/Honeycomb_Grid.png" style="height: 100px; object-fit: cover; border-radius: 5px;"> | 蜂巢网格 | `Honeycomb_Grid` | [bilibili演示](https://www.bilibili.com/video/BV1iw3uzAEee) |
 | 《QWidget字母故障》 | <img src="res/Letter_Glitch.png" style="height: 100px; object-fit: cover; border-radius: 5px;"> | 字母故障 | `Letter_Glitch` | [bilibili演示](https://www.bilibili.com/video/BV1kcGHzLEDq) |
 | 《QWidget磁力线》 | <img src="res/Magnet_Lines.png" style="height: 100px; object-fit: cover; border-radius: 5px;"> | 磁力线 | `Magnet_Lines` | [bilibili演示](https://www.bilibili.com/video/BV1JTGHz3EAQ) |
+| 《QWidget 粒子生成》 | <img src="res/Particle_Generation.png" style="height: 100px; object-fit: cover; border-radius: 5px;"> | 通过opencv对图片进行处理，可交互的粒子 | `Particle_Generation` | [bilibili演示](https://www.bilibili.com/video/BV1nKuqzjEnD/) |
