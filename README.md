@@ -36,3 +36,4 @@
 | 《QWidget字母故障》 | <img src="res/Letter_Glitch.png" style="height: 100px; object-fit: cover; border-radius: 5px;"> | 字母故障 | `Letter_Glitch` | [bilibili演示](https://www.bilibili.com/video/BV1kcGHzLEDq) |
 | 《QWidget磁力线》 | <img src="res/Magnet_Lines.png" style="height: 100px; object-fit: cover; border-radius: 5px;"> | 磁力线 | `Magnet_Lines` | [bilibili演示](https://www.bilibili.com/video/BV1JTGHz3EAQ) |
 | 《QWidget 粒子生成》 | <img src="res/Particle_Generation.png" style="height: 100px; object-fit: cover; border-radius: 5px;"> | 通过opencv对图片进行处理，可交互的粒子 | `Particle_Generation` | [bilibili演示](https://www.bilibili.com/video/BV1nKuqzjEnD/) |
+| 《QWidget Loading集》 | <img src="res/LoadingAnime.png" style="height: 100px; object-fit: cover; border-radius: 5px;"> | 各式各样的Loading们 | `LoadingAnime` | [bilibili演示](https://www.bilibili.com/video/BV1LpgVz3ES1/) |
